@@ -12,7 +12,7 @@ function bubleSort() {
 
         }
 
-        console.log(`proses ke-${i + 1} = ${data.join('-')}`);
+        console.log(`proses ke - ${i + 1} = ${data.join('-')}`);
     }
 }
 
